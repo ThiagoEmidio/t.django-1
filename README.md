@@ -9,4 +9,4 @@ Other goals will be listed with time.
 Made using: 
 - Python 3
 - Django 3.0.0
-- Git 2.26.0
+- Git 2.26.0 
