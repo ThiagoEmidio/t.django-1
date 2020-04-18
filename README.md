@@ -1,4 +1,4 @@
-#Testing Django#
+# Testing Django
 
 Project for learning and using django to form a simple forum or a bulletin board. Plus learning how to use Git/GitHub without the assistance of a GUI.
 
